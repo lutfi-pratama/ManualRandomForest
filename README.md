@@ -1,2 +1,5 @@
 # RandomForest
-随机森林，Random Forest（RF），分类和回归
+
+Random Forest（RF)
+
+Manual Random Forest classification model for sentiment analysis
